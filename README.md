@@ -1,5 +1,5 @@
 # notebook_mermaid
-Jupyter notebook mermaid extension.  
+Jupyter notebook [mermaid](https://mermaidjs.github.io/usage.html) extension.  
 **Note! in develop, not yet for production.**
 
 # Install
