@@ -1,0 +1,11 @@
+utils.js:62 Failed to load extension: ["nbextensions/notebook_mermaid/mermaid"] TypeError: _.constant is not a function
+    at Object../node_modules/graphlibrary/lib/alg/dijkstra.js (mermaid.js:26950)
+    at __webpack_require__ (mermaid.js:30)
+    at Object../node_modules/graphlibrary/lib/alg/index.js (mermaid.js:27094)
+    at __webpack_require__ (mermaid.js:30)
+    at Object../node_modules/graphlibrary/index.js (mermaid.js:26820)
+    at __webpack_require__ (mermaid.js:30)
+    at Object../src/diagrams/flowchart/flowRenderer.js (mermaid.js:64777)
+    at __webpack_require__ (mermaid.js:30)
+    at Object../src/mermaidAPI.js (mermaid.js:71197)
+    at __webpack_require__ (mermaid.js:30)
