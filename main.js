@@ -1,7 +1,7 @@
 // file my_extension/main.js
 define([
     'base/js/namespace',
-    'nbextensions/mermaid_extension/mermaid'
+    'nbextensions/notebook_mermaid/mermaid'
 ], function(
     Jupyter,
     mermaid
